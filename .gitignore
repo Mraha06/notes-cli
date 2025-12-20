@@ -1,0 +1,4 @@
+/bin/
+/data/notes.csv
+*.class
+.DS_Store
